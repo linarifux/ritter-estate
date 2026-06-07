@@ -52,3 +52,8 @@
 @utility mask-widescreen-active {
   clip-path: inset(4% 3% 4% 3% round 12px);
 }
+
+
+button {
+  cursor: pointer;
+}
